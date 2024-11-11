@@ -9,4 +9,6 @@ pkg install git
 
 git clone github.com/bilalsbxp/hack-surga
 
+cd hack-surga
+
 sh main.sh
