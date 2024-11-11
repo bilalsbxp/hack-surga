@@ -1,8 +1,7 @@
 # hack-surga
 
-Hack Surga by BilalsBxp
+Hack Surga by BilalsBXP
 
-run:
 
 pkg update && pkg upgrade
 
